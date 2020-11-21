@@ -2,5 +2,5 @@
 let dodger=document.getElementById('dodger');
 
 function moveDodgerLeft(){
-  dodger.style.color='red';
+  dodger.style.bachground='red';
 }
